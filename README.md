@@ -1,18 +1,38 @@
 # Modern Login UI
 
-Project ini merupakan contoh aplikasi **Flutter** dengan tampilan **Login Modern**.  
-Dibuat sebagai tugas praktikum untuk latihan membangun antarmuka (UI) menggunakan Flutter.
+Project ini merupakan contoh **aplikasi Flutter dengan tampilan login modern (Modern Login UI)**.  
+Dibuat sebagai **tugas praktikum** atau **proyek latihan** untuk mempelajari desain antarmuka (UI) menggunakan **Flutter**.
 
-## Deskripsi Singkat
-Aplikasi ini menampilkan halaman login dengan desain modern dan responsif.  
-Tujuannya agar mahasiswa dapat memahami struktur dasar Flutter serta cara membuat tampilan menarik.
+---
 
-## Teknologi
-- Flutter
-- Dart
+## 🎯 Tujuan
+- Memahami struktur dasar project Flutter.  
+- Mempelajari penggunaan widget untuk membangun tampilan login.  
+- Melatih keterampilan desain antarmuka modern menggunakan Flutter.
 
-## Fitur
-- Tampilan login modern dan responsif  
-- Navigasi sederhana ke halaman utama  
-- Desain menggunakan komponen Material Design
+---
 
+## 🧩 Teknologi yang digunakan
+- **Flutter** (Framework utama)  
+- **Dart** (Bahasa pemrograman)  
+- **Material Design Components**
+
+---
+
+## 📸 Tampilan Aplikasi
+Berikut hasil tampilan antarmuka login yang telah dibuat:
+
+![Login UI](screenshots/login_ui.png)
+
+---
+
+## 👨‍💻 Anggota Kelompok
+| Nama Lengkap         | NIM        |
+|----------------------|------------|
+| **Caca Cahyadi**     | 232101058  |
+| **Rahmat Hardiansyah** | 232101072 |
+| **Aqilla Yufaridza** | 232101079  |
+
+---
+
+> 💡 *Project ini dibuat untuk memenuhi tugas “Making App with Basic Widget” pada mata kuliah Mobile Programming2.*
