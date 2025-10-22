@@ -16,8 +16,3 @@ Tujuannya agar mahasiswa dapat memahami struktur dasar Flutter serta cara membua
 - Navigasi sederhana ke halaman utama  
 - Desain menggunakan komponen Material Design
 
-## Cara Menjalankan
-1. Pastikan Flutter sudah terinstal (`flutter doctor`)
-2. Clone repository ini:
-   ```bash
-   git clone https://github.com/zurdanspeed03-droid/modern_login_ui.git
